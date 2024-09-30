@@ -1,0 +1,7 @@
+torch
+torchvision
+wandb
+tqdm
+numpy
+open_clip
+transformers
